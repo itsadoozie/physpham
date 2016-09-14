@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+
+int main (){
+
+cout << "your mom is a doozie 
+
+  return 0;
+}
